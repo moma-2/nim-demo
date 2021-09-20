@@ -225,8 +225,8 @@ f0c9a8ce4d22   nginx-nim-demo_nginx1                   "/entrypoint.sh"         
 ```
 
 The demo environment is ready in seconds. You can access the NIM Managment UI at
-[`http://localhost`](http://localhost) or
-[`http://localhost/api`](http://localhost)
+[`http://localhost:9080`](http://localhost) or
+[`http://localhost:9080/api`](http://localhost)
 
 You will see three instances registered and ready to be managed by NIM in the
 [Inventory Page](http://localhost/ui/inventory/)
